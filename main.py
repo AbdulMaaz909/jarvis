@@ -4,7 +4,6 @@ import pyttsx3
 import musicLibrary
 import requests
 
-#pip install pocketspinx
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
