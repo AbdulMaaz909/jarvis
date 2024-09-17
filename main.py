@@ -70,11 +70,4 @@ if __name__=="__main__":
 
 
 
-'''
-ERROR 
-1.not found pyaudio : install pyaudio
-2. no named module distutils : install setuptools
 
-'''
-
-# 99dfcc595cb0635be520a70730e65802
