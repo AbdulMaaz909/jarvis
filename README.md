@@ -1,1 +1,1 @@
-# I craeted jarvis.It's a AI.
+# I created jarvis.It's a AI.
